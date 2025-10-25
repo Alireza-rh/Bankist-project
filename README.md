@@ -15,6 +15,8 @@ A simple interactive banking landing page built with vanilla JavaScript, HTML, a
 
 ---
 
+## ⚡ Technologies Used
+
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
